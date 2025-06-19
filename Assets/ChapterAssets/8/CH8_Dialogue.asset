@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc4995509adf4197abf77f14f54a7ae, type: 3}
+  m_Name: CH8_Dialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: 2
+    text: A swinging monkey appeared suddenly,
+    audioClip: {fileID: 8300000, guid: 69b7121a245e64c5c8f504bcd6a18588, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: It made Pepe jump at first, but not hungrily.
+    audioClip: {fileID: 8300000, guid: 0f664df6c522d476d9018609c191424e, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Instead, Ruth said,
+    audioClip: {fileID: 8300000, guid: 2cb1b3da2c8c5475c99c8070c19023b3, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 4
+    text: Do you want a banana?
+    audioClip: {fileID: 8300000, guid: c0ef5091e1675479ab4194b809db8139, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 4
+    text: I have bunches of them, and their peels make great bandanas!
+    audioClip: {fileID: 8300000, guid: 553708fbdab094c40bbd078a22621d8a, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: "You\u2019re funny,"
+    audioClip: {fileID: 8300000, guid: bd0e8e6dae5e24717b99ce2c1b15f0f4, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: said Pepe, laughing at Ruth,
+    audioClip: {fileID: 8300000, guid: 9b6ef1c25ee834607a5181ea7a718488, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 4
+    text: "No, seriously, they\u2019re fun to wear, and that\u2019s the truth!"
+    audioClip: {fileID: 8300000, guid: 09a4fb2850f1d489680fe16b5ca63a69, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Pepe tried the banana and smiled,
+    audioClip: {fileID: 8300000, guid: 0d52b14243c9d4100b720fde2c67a533, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: "I\u2019ve heard about fruit, but it\u2019s been a while."
+    audioClip: {fileID: 8300000, guid: 1aa38d6c90e234f72b2c53579d51e58e, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: I used to eat cranberries, melons, and grapes,
+    audioClip: {fileID: 8300000, guid: 6dd353fbe5fd14f248737cc0a9d35f15, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: "But lately, I haven\u2019t,"
+    audioClip: {fileID: 8300000, guid: e6360ef1cd60743539fb8a20a7c7adae, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: he said with his mouth agape.
+    audioClip: {fileID: 8300000, guid: 48d236c645a9642eaa7270322d356ed9, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  - speaker: 4
+    text: "Well, you\u2019re welcome to mine any time you want,"
+    audioClip: {fileID: 8300000, guid: ad9c5d50af4284fdeb0db4dd75742ef3, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 4
+    text: Just stop by
+    audioClip: {fileID: 8300000, guid: b8df6bcb9c8724f8fb8021829a726852, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: and then Ruth went away on her jaunt.
+    audioClip: {fileID: 8300000, guid: 123bfe532cefc42e19b5d601a1f9b9a6, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+  sceneCharacters: 02000000000000000100000004000000

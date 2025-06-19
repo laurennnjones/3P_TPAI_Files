@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc4995509adf4197abf77f14f54a7ae, type: 3}
+  m_Name: CH3_DialogueData
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: 1
+    text: Lana Iguana is my name sir, indeed,
+    audioClip: {fileID: 8300000, guid: 3c67dd6dae9f248ecba908cd4159c73e, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: I'm a lazy, thoughtful lizard who has great speed.
+    audioClip: {fileID: 8300000, guid: 4c7672a1dd4864d2a9bbf2fb7464378a, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: I lounge on that log, just across the way,
+    audioClip: {fileID: 8300000, guid: f7535ae19bf09481fb6bca3100da53b2, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: I soak up the sun's rays all day.
+    audioClip: {fileID: 8300000, guid: 16bd033109c6d46089011e5f7acf846a, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: It is a wonderful life I have lived so far,
+    audioClip: {fileID: 8300000, guid: 9df444ef71ca041fe8eb4d1564a80d48, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Lounging in peaceful nature and a view of the stars.
+    audioClip: {fileID: 8300000, guid: 6aa760ff748fe4e02ad1d6a9f090d4cf, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: Yes, it is great here in the wild,
+    audioClip: {fileID: 8300000, guid: 01269fe88c14440068591efa6b58cc7e, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: For, I lived in the city of Paris as a child.
+    audioClip: {fileID: 8300000, guid: a68084e202c95410ca7f065da7c06df9, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: I was brought here from the city, so I never fit in.
+    audioClip: {fileID: 8300000, guid: ad5dd18cb68174d4ca132376bd0a0449, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: Everybody treats me as if I committed a mortal sin.
+    audioClip: {fileID: 8300000, guid: c57f1298ee9a346158f4adc8b13cf81c, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: So, I gave up trying to be friendly and happy,
+    audioClip: {fileID: 8300000, guid: f02841796c4fa42f5a6c78103ef49921, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: But I get so lonely, I'm sorry if I'm coming off sappy.
+    audioClip: {fileID: 8300000, guid: e9b692d701e554146a14f1ad3af2e630, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: Lately, I have been feeling so blue,
+    audioClip: {fileID: 8300000, guid: ebf1a62f432c743aeb4914eb9d9187ef, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: I'm grateful to be able to talk to you.
+    audioClip: {fileID: 8300000, guid: 6321cb6181e734f229bd6967ff23d1cb, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Don't worry Pepe, we'll turn your popularity around,
+    audioClip: {fileID: 8300000, guid: cdb521a6257f3493c884979bbc1b31de, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: When we're finished, your reputation will rebound.
+    audioClip: {fileID: 8300000, guid: c3149dd6f9fc0437a85ba6bd0677af6a, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: You see, because I lay on that log all day,
+    audioClip: {fileID: 8300000, guid: b3c10bc8d56944c0388c184824b2fea3, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Every animal eventually crosses my way.
+    audioClip: {fileID: 8300000, guid: 3ef63f61c7c854ae9b5b86209f65d567, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: I'll vouch for you, I'll say you're truly, really cool.
+    audioClip: {fileID: 8300000, guid: 8b2e2804c43aa49c584cdc158fd54eb2, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: The other animals will believe me; not one is a fool.
+    audioClip: {fileID: 8300000, guid: c7872a293cddc4e5f87414549d409d43, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Tomorrow morning, come right out to my log,
+    audioClip: {fileID: 8300000, guid: f6cb9ca389dd049cc9eca9106f3c689d, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: It is the one that pokes through the bog.
+    audioClip: {fileID: 8300000, guid: ae457937cb9d34138b51316633abacaf, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Come in the morning, and don't be late.
+    audioClip: {fileID: 8300000, guid: c5e4e1da541a14336b589921ee050d6b, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: I'll introduce you to the animals, we'll start with Kate!
+    audioClip: {fileID: 8300000, guid: e9f4df68670c14711886a196f73875b6, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  sceneCharacters: 020000000000000001000000

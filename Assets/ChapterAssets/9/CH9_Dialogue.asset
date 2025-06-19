@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc4995509adf4197abf77f14f54a7ae, type: 3}
+  m_Name: CH9_Dialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: 2
+    text: Pepe then met a panther, Herald he was named,
+    audioClip: {fileID: 8300000, guid: f4ed4b0912092447d8027d55947f9ae0, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: He was ferocious; he had never been tamed.
+    audioClip: {fileID: 8300000, guid: 16f150c199aea43e2b4483d70666db69, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 5
+    text: I used to be in the circus,
+    audioClip: {fileID: 8300000, guid: cafbdb2f8efd64f53beffcefbae56169, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: was his claim,
+    audioClip: {fileID: 8300000, guid: b1b3bee5765194d52b9c88d825d30f8c, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 5
+    text: But since I've been in the jungle, I now have new fame.
+    audioClip: {fileID: 8300000, guid: 407c3703d481e4f5c9fdeb614e03c5c7, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 5
+    text: They couldn't train me, I'm a raw talent you see,
+    audioClip: {fileID: 8300000, guid: 75ab4b648dded49a48ed59e333a6096c, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 5
+    text: So, they decided it was just easier to let me be.
+    audioClip: {fileID: 8300000, guid: 179d1e39a6f8e4de2b628be2ba182598, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: I'm happy to meet you,
+    audioClip: {fileID: 8300000, guid: 2b03692ea8be64ed19ef70f47b09ee5e, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: said Pepe.
+    audioClip: {fileID: 8300000, guid: 60c7f22e8749e42498ee4f584b35e594, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: But when you're hungry, I'll stay out of your way.
+    audioClip: {fileID: 8300000, guid: 628458736dcd6452f9c6485c3b82807f, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Herald laughed and said,
+    audioClip: {fileID: 8300000, guid: fa0ae7f9d586843d5b24e2053d5af83c, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 5
+    text: We're all free,
+    audioClip: {fileID: 8300000, guid: 0c15dfef1eb83406dad356b067a96003, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 5
+    text: But I never eat fish, it's not the taste for me.
+    audioClip: {fileID: 8300000, guid: 02913d36bf7be47d0b44997a850971e4, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: He stuck out his paw, and Pepe shook it with his fin,
+    audioClip: {fileID: 8300000, guid: 3d872a061643145338028fca02672e03, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: It's so nice to meet you,
+    audioClip: {fileID: 8300000, guid: 111de151aa08c4b65bb53963530cd84b, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Pepe said with a grin.
+    audioClip: {fileID: 8300000, guid: 3ac57047d27dd47dbb92fb2f2b3114f3, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 5
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  sceneCharacters: 02000000000000000100000005000000

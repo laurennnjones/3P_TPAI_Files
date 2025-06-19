@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc4995509adf4197abf77f14f54a7ae, type: 3}
+  m_Name: CH2_Dialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: 2
+    text: His sad cries filled the jungle's night sky,
+    audioClip: {fileID: 8300000, guid: e964cfcb692c34545ac2aa7662178a16, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 2
+    - character: 1
+      animation: 0
+      shapekey: -1
+  - speaker: 2
+    text: There was loneliness echoed in his desperate cry.
+    audioClip: {fileID: 8300000, guid: 3a3c5eb7bf6534b5d9925fdd6362e0cf, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: -1
+  - speaker: 2
+    text: The callings of the giant, meat-eating piranha,
+    audioClip: {fileID: 8300000, guid: 4b735095fae884e21a4f269805d7585e, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 8
+  - speaker: 2
+    text: Scared every animal, except a mellow iguana.
+    audioClip: {fileID: 8300000, guid: 4286d0d7017a04e92a5c121c5bcf9cfc, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: 'The large, leisurely lizard called back to the fish:'
+    audioClip: {fileID: 8300000, guid: 4aa4f964a592d41f7a97edc5a3d4fca5, type: 3}
+    animationName: 0
+    shapekeyName: -1
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: I would love to talk as long as you wish.
+    audioClip: {fileID: 8300000, guid: 983917e8cd3194a30bf8989cb2975b8e, type: 3}
+    animationName: 0
+    shapekeyName: 1
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: But, you have a look about you and need to earn my trust,
+    audioClip: {fileID: 8300000, guid: c93cc563df53e440ba079e4d374edd07, type: 3}
+    animationName: 0
+    shapekeyName: 11
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: -1
+  - speaker: 1
+    text: Let's start with a conversation, this requirement is a must.
+    audioClip: {fileID: 8300000, guid: 3d34d32aaf8c74ca8aa11ab692f167ef, type: 3}
+    animationName: 0
+    shapekeyName: 13
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: -1
+  - speaker: 0
+    text: I promise to stay in these warm waters,
+    audioClip: {fileID: 8300000, guid: 697064e9b1a6d43d6a5cd4e75aebfbd1, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: -1
+  - speaker: 0
+    text: I just want a friend, I won't bring you bother.
+    audioClip: {fileID: 8300000, guid: dab854694568944f9aede2eee02afd50, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: My name is Pepe the Piranha,
+    audioClip: {fileID: 8300000, guid: b4b5aa79f2cbe41dd9b5f7c7f7f75105, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: And what is your name Madame Iguana?
+    audioClip: {fileID: 8300000, guid: 9ae98dc02320646a18f158f3bea0e95d, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: The iguana streaked out her slithery tongue,
+    audioClip: {fileID: 8300000, guid: 423fa6b3740ad41938c3bcccaef2ec9d, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: She couldn't believe how the fish had begun.
+    audioClip: {fileID: 8300000, guid: b8bed89d6676c4cf1b7a0e4711ca9863, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: The iguana thought, I've never met a French fish,
+    audioClip: {fileID: 8300000, guid: b062d89cb05c0480190987275a887c26, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Smiling to herself, she thought 'oh how delish.'
+    audioClip: {fileID: 8300000, guid: 21fb4a6afdea34f25bd56756b5084897, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  sceneCharacters: 020000000000000001000000

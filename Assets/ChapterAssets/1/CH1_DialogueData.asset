@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc4995509adf4197abf77f14f54a7ae, type: 3}
+  m_Name: CH1_DialogueData
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: 2
+    text: The Piranha and the Iguana
+    audioClip: {fileID: 8300000, guid: 2380b74caa0d34631808f16b14c2c629, type: 3}
+    animationName: 0
+    shapekeyName: 6
+    prefabIndices: 00000000
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 1
+      shapekey: 6
+    - character: 1
+      animation: 0
+      shapekey: 3
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: The giant piranha was lonely as can be,
+    audioClip: {fileID: 8300000, guid: e72870975aa4f45e89956b7a3d7ef059, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 3
+    - character: 1
+      animation: 0
+      shapekey: 4
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: When he tried to make friends, all the animals would flee.
+    audioClip: {fileID: 8300000, guid: 7b9504a7f4d8f4eb6bfa74cc1dc51a3b, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 15
+    - character: 1
+      animation: 0
+      shapekey: 13
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: No one would talk to this ugliest of fish,
+    audioClip: {fileID: 8300000, guid: 17bafd5ae6d144194a07071c96497b64, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 12
+    - character: 1
+      animation: 0
+      shapekey: 12
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: People thought he looked at them as if they were a dish.
+    audioClip: {fileID: 8300000, guid: 2bedab16eee1c452eb47838f48d4e646, type: 3}
+    animationName: 0
+    shapekeyName: 15
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 1
+      shapekey: 15
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Alone he swam in the river all day,
+    audioClip: {fileID: 8300000, guid: f73d3f837c14a46abab2551d3a32da75, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 2
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Without a single friend to come and play.
+    audioClip: {fileID: 8300000, guid: b2899f738d37a4d9e87c07ad9e3d446d, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 3
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: Nobody cares about a giant, ugly fish,
+    audioClip: {fileID: 8300000, guid: f0477f4ab20364ca3b150ddd8538791a, type: 3}
+    animationName: 0
+    shapekeyName: 12
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: "With jaws that are as powerful as a boxer\u2019s fist."
+    audioClip: {fileID: 8300000, guid: faf620104ac634b2f99f4fe564e7a8de, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 00000000
+    nonSpeakingCharacterActions:
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: I swim by myself, alone without a friend,
+    audioClip: {fileID: 8300000, guid: 2eaf41efdff9b43ec810cf412c4d11de, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: I wish this misery would come to an end.
+    audioClip: {fileID: 8300000, guid: 3bb2a4ad9fc9e492ba2c6275cae352f4, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: Will anyone out there just talk to me please.
+    audioClip: {fileID: 8300000, guid: f65477689fde44e36bb90d756a5c2217, type: 3}
+    animationName: 0
+    shapekeyName: 3
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: "I promise I won\u2019t eat you, and I don\u2019t have a disease."
+    audioClip: {fileID: 8300000, guid: 0aa359880d19343fca53cfc921873191, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  - speaker: 0
+    text: Somebody? Anybody? Please. Please! PLEASE!
+    audioClip: {fileID: 8300000, guid: 33d8337c50a5e4fda91d98286a9cf7bd, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 4
+      animation: 0
+      shapekey: 0
+    - character: 5
+      animation: 0
+      shapekey: 0
+  sceneCharacters: 020000000000000001000000

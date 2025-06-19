@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc4995509adf4197abf77f14f54a7ae, type: 3}
+  m_Name: CH7_Dialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: 3
+    text: Hello,
+    audioClip: {fileID: 8300000, guid: 3dc7aa29034304ec6b69590619f68950, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: she said, coy and shy,
+    audioClip: {fileID: 8300000, guid: 0dfbcfcf4836a4a23b9ef201ed6bf328, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 3
+    text: Your teeth, they're big and shiny, oh my!
+    audioClip: {fileID: 8300000, guid: 1c5689303d3aa4856b83a72a24cb676d, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Kate was about to turn and run,
+    audioClip: {fileID: 8300000, guid: b50cdfe090f3d441380a05ed3ee1f4c2, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Wait Kate, Pepe's actually quite fun.
+    audioClip: {fileID: 8300000, guid: 8e08798f354924f1fa82bfdce2bfdb26, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 3
+    text: Oh really, with those sharp big teeth,
+    audioClip: {fileID: 8300000, guid: c92fbe95437804d2bb05ed4ae8eb4213, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Gesturing to her side,
+    audioClip: {fileID: 8300000, guid: 7736d90489b64449f817723ba08bed36, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 3
+    text: It looks like he wants some beef.
+    audioClip: {fileID: 8300000, guid: 695da3c301115444a84172439ac4e75d, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Seriously Kate, he's really so nice,
+    audioClip: {fileID: 8300000, guid: d50fd0f8a1f844d4fa7861c440efc42e, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: He's making friends and taking advice.
+    audioClip: {fileID: 8300000, guid: b87c29297eecc43579fb70d79a1d3e75, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Well, after Lana vouched and told the truth,
+    audioClip: {fileID: 8300000, guid: e6b0847305cbe420e884213fc28a2ed8, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Kate called over her friend named Ruth.
+    audioClip: {fileID: 8300000, guid: f8c5144a61b9f4cf7b3e2e203ff367c7, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 3
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  sceneCharacters: 02000000000000000100000003000000

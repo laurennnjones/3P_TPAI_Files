@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc4995509adf4197abf77f14f54a7ae, type: 3}
+  m_Name: CH6_Dialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: 0
+    text: Hello Lana,
+    audioClip: {fileID: 8300000, guid: d4c9e47168a9242dfbf5a8898a3d50fb, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: said Pepe quite early,
+    audioClip: {fileID: 8300000, guid: ad20cce40d1254f29b0c826337a1d3f6, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: Excited but mellow, Lana said,
+    audioClip: {fileID: 8300000, guid: 0c345d9a99fb2425ba20574f64570ddc, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: We're not in a hurry.
+    audioClip: {fileID: 8300000, guid: 4c9269afb85ec4372ad829583b7e3457, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: You see, all the animals will eventually pass by,
+    audioClip: {fileID: 8300000, guid: 0e8c9df3f7c954426a6a340783d9e0da, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: And all you have to do is relax and say 'Hi'.
+    audioClip: {fileID: 8300000, guid: 197b22d2006234e14b85368d935adc33, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Then a conversation will naturally start,
+    audioClip: {fileID: 8300000, guid: f05339db89961409489d919367d578f1, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 1
+    text: Just don't be phony, speak from the heart.
+    audioClip: {fileID: 8300000, guid: 09128200d8f234238a0f91c5647f9499, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 2
+      animation: 0
+      shapekey: 0
+    - character: 0
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: So all that day, Lana stayed with Pepe,
+    audioClip: {fileID: 8300000, guid: b294318efbb864159906a4b6e20676cd, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: And met animals who passed by their way.
+    audioClip: {fileID: 8300000, guid: 1c701df4c1ddb4ee6af1a3581d9bb179, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: First up was Kate, she was a beautiful gorilla,
+    audioClip: {fileID: 8300000, guid: 26470584a70f14f90a66896b19ec16b0, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  - speaker: 2
+    text: She had the coloring of frosty vanilla.
+    audioClip: {fileID: 8300000, guid: 2dc6b6f92eb304692a175b5b3b6e83ac, type: 3}
+    animationName: 0
+    shapekeyName: 0
+    prefabIndices: 
+    nonSpeakingCharacterActions:
+    - character: 0
+      animation: 0
+      shapekey: 0
+    - character: 1
+      animation: 0
+      shapekey: 0
+  sceneCharacters: 020000000000000001000000
