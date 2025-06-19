@@ -8,15 +8,18 @@
 > 2. **Chapter Dialogue Manager System** – A modular system for driving animated, voiced, and interactive storytelling with characters and prefabs.
 
 These systems are designed to work together seamlessly in a fully immersive VR storytelling environment.
-"""
 
-## Google Cardboard VR Custom Plugin for Unity
+---
+
+
+
+# Google Cardboard VR Custom Plugin for Unity
 
 > A custom implementation of the Google Cardboard XR plugin tailored for Unity, enabling lightweight mobile VR experiences.
 
 ---
 
-### 🧩 Overview
+## 🧩 Overview
 
 This Unity plugin supports **Google Cardboard** VR development across Android and iOS platforms using Unity’s XR plugin architecture. It provides:
 
@@ -28,7 +31,7 @@ This Unity plugin supports **Google Cardboard** VR development across Android an
 
 ---
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 * `Scripts/Google.XR.Cardboard/`
 
@@ -47,16 +50,16 @@ This Unity plugin supports **Google Cardboard** VR development across Android an
 
 ---
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
-#### 📦 Prerequisites
+### 📦 Prerequisites
 
 * Unity 2019.4.25f1 or later (tested)
 * XR Management package (via Unity Package Manager)
 * Cardboard SDK assets (textures, materials in `Resources/Cardboard/`)
 * Android or iOS build support
 
-#### 📥 Importing the Plugin
+### 📥 Importing the Plugin
 
 1. Clone this repo or import into an existing Unity project.
 2. Enable **XR Plugin Management** (`Edit > Project Settings > XR Plug-in Management`).
@@ -64,9 +67,9 @@ This Unity plugin supports **Google Cardboard** VR development across Android an
 
 ---
 
-### 🧠 Usage Guide
+## 🧠 Usage Guide
 
-#### 🧭 Input Detection
+### 🧭 Input Detection
 
 Use the `Google.XR.Cardboard.Api` static class to detect input:
 
