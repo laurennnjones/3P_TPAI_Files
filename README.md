@@ -10,7 +10,7 @@
 These systems are designed to work together seamlessly in a fully immersive VR storytelling environment.
 """
 
-# Google Cardboard VR Custom Plugin for Unity
+## Google Cardboard VR Custom Plugin for Unity
 
 > A custom implementation of the Google Cardboard XR plugin tailored for Unity, enabling lightweight mobile VR experiences.
 
