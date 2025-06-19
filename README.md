@@ -1,3 +1,15 @@
+# Google Cardboard VR & Chapter Dialogue Manager System for Unity
+
+> This repository contains the **full Unity project** for an interactive mobile VR experience built with Google Cardboard.
+>
+> While the project includes various scenes, scripts, and assets, this README focuses specifically on the **two core systems**:
+>
+> 1. **Google Cardboard VR System** – Custom integration of Google’s mobile VR SDK using Unity’s XR Management framework.
+> 2. **Chapter Dialogue Manager System** – A modular system for driving animated, voiced, and interactive storytelling with characters and prefabs.
+
+These systems are designed to work together seamlessly in a fully immersive VR storytelling environment.
+"""
+
 # Google Cardboard VR Custom Plugin for Unity
 
 > A custom implementation of the Google Cardboard XR plugin tailored for Unity, enabling lightweight mobile VR experiences.
